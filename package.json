@@ -1,4 +1,8 @@
 {
+    "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
   "dependencies": {
     "@google-cloud/translate": "^8.5.0",
     "@iamtraction/google-translate": "github:iamtraction/google-translate",
